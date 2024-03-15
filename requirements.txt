@@ -8,4 +8,5 @@ torchvision
 numpy
 transformers
 scenedetect
+opencv-python-headless
 #./tpu_perf-1.2.17-py3-none-manylinux2014_aarch64.whl
