@@ -54,7 +54,7 @@ if __name__ == '__main__':
     from inference.video_features import video_features
 
     # 创建一个侧边栏
-    st.sidebar.title("🤩VideoSearch powered by Airbox")
+    st.sidebar.title("🤩VideoSearch powered by BM1684M")
     # 添加一个选项控件，用于选择当前显示的Tab
     selected_tab = st.sidebar.selectbox("Select", ["Upload Video", "Search Video by Text", "Search Video by Image"])
 
